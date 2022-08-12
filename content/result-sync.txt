@@ -1,0 +1,2 @@
+Here is result: first file, second file,
+ { flag: 'a'}Here is result: first file, second fileHere is result: first file, second fileHere is result: first file, second file
